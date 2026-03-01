@@ -193,13 +193,3 @@ npm install
 npm run start
 ```
 
-## Walkthrough Checklist (10–15 min)
-Cover this sequence in your submission video:
-1. Problem and scope (small + correctness-focused)
-2. Backend layering and boundaries (`routes` vs `services` vs `models`)
-3. Core business rules and where they are enforced
-4. API contract and error shape
-5. Test suite proving invariant behavior
-6. Frontend flow from form action to backend rule enforcement
-7. AI usage process and human review/verification steps
-8. Risks and planned extension strategy
